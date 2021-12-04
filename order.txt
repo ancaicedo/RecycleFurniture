@@ -2,11 +2,12 @@ Faculty Name:
 Contact:
 Date:
 
-Original Request: task chair, 1
+Original Request: desk lamp, 2
 
 Items Ordered
-ID: C3405
-ID: C0914
-Total Price: $150
+ID: L564
+ID: L208
+ID: L013
+Total Price: $40
 
 Thank you, come again :)
